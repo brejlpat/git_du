@@ -1,7 +1,7 @@
 # Objektově orientované programování
 ## GitHub - Homework
 
-Autor: Patrik Brejla
+Autor: Patrik Brejla  
 Os. č.: 508 923
 
 ### Úkol:
